@@ -1,0 +1,1 @@
+?package(sparky-wine):needs="X11" section="Applications/WineConfig"        title="Wine Wrapper" command="/usr/bin/sparky-wine" icon="wine"

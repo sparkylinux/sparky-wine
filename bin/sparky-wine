@@ -1,0 +1,54 @@
+#!/bin/bash
+#
+#  Sparky-Wine is a simply tool which let you install ".exe" application using Wine.
+#
+#  Created by Paweł "pavroo" Pijanowski 2014/03/04
+#  Last update 2016/05/24
+#  Copyright 2014, 2015, 2016 under the GNU GPL2 License
+
+# get default's locale file
+DEFLOCDIR="/usr/share/sparky/sparky-wine"
+if [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+. $DEFLOCDIR/es
+elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
+. $DEFLOCDIR/fr
+elif [ "`cat /etc/default/locale | grep it_IT`" != "" ]; then
+. $DEFLOCDIR/it
+elif [ "`cat /etc/default/locale | grep ja_JP`" != "" ]; then
+. $DEFLOCDIR/ja
+elif [ "`cat /etc/default/locale | grep pl_PL`" != "" ]; then
+. $DEFLOCDIR/pl
+elif [ "`cat /etc/default/locale | grep pt_BR`" != "" ]; then
+. $DEFLOCDIR/pt_BR
+elif [ "`cat /etc/default/locale | grep pt_PT`" != "" ]; then
+. $DEFLOCDIR/pt_PT
+else
+. $DEFLOCDIR/en
+fi
+
+DIALOG700="`which yad` --window-icon=wine --width=700 --height=500 --center"
+DIALOG="`which yad` --window-icon=wine --width=450 --height=200 --center"
+TITLE="--always-print-result --dialog-sep --image=wine --title="
+TEXT="--text="
+TITLETEXT="$LOCAL1"
+FILESELECTION="--file-selection "
+FILTER="--file-filter"
+OKEXIT=" --button=Ok:0 --button=$LOCAL6:1 "
+MSGBOX=" --button=Ok:0 "
+
+EXEFILE=`$DIALOG700 $TITLE"$LOCAL2" $OKEXIT $FILESELECTION $FILTER="EXE file |*.exe"`
+
+if [ "$?" != "0" ]; then
+	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL3"
+	exit 1
+
+elif [ "$EXEFILE" = "" ]; then
+	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL4"
+	exit 1
+
+else
+
+	wine $EXEFILE
+	$DIALOG $TITLE"$TITLETEXT" $MSGBOX $TEXT"$LOCAL5"
+	exit 0
+fi

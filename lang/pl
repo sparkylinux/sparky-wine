@@ -1,0 +1,16 @@
+# Polish localization file for Sparky Wine.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2016/01/11
+# Translated to Polish by pavroo
+
+LOCAL1="Wine Wrapper"
+LOCAL2="Wybierz plik EXE do zainstalowania za pomocą WINE"
+LOCAL3="Żaden program nie został zainstalowany! \n\nKliknij OK aby zakończyć."
+LOCAL4="Żaden plik nie został wybrany! \n\nZakończ..."
+LOCAL5="Jeśli wszystko poszło dobrze, aplikacja 'exe' została zainstalowana."
+LOCAL6="Zakończ"
+
+### .desktop file, również do przetłumaczenia
+# Name[pl_PL]=Wine Wrapper
+# Comment[pl_PL]=Zainstaluj aplikację EXE

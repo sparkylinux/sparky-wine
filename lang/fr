@@ -1,0 +1,15 @@
+﻿# Fichier de localisation française de Sparky Wine.
+# Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
+# Sous licence GNU GPL v2
+# Dernière mise à jour 2016/06/05
+
+LOCAL1="Wine Wrapper"
+LOCAL2="Sélectionner le fichier EXE à installer avec WINE"
+LOCAL3="Rien n'a été installé! \n\nCliquez sur OK pour quitter."
+LOCAL4="Aucun fichier n' été choisi! \n\nSortie..."
+LOCAL5="Si tout s'est bien passé, votre application 'exe' a été installée."
+LOCAL6="Quitter"
+
+### .desktop file to be translated too
+# Name[fr_FR]=Wine Wrapper
+# Comment[fr_FR]=Installation d'application EXE

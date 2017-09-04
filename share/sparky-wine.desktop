@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Wine Wrapper
+GenericName=Wine Wrapper
+Comment=Install EXE Application
+Comment[es_AR]=Instala una aplicación EXE
+Comment[fr_FR]=Installation d'application EXE
+Comment[it_IT]=Installa un'Applicazione EXE
+Comment[ja_JP]=EXE アプリケーションのインストール
+Comment[pl_PL]=Zainstaluj aplikację EXE
+Comment[pt_BR]=Instalar uma aplicação EXE
+Comment[pt_PT]=Instale a Aplicação EXE
+Exec=/usr/bin/sparky-wine
+Icon=wine
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=WineConfig;
+
