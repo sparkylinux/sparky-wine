@@ -3,14 +3,12 @@
 # Under the GNU GPL v2
 # Last update 2017/01/06
 # Translated to Japanese by BALLOON a.k.a. Fu-sen.
-
 LOCAL1="Wine Wrapper"
 LOCAL2="WINE を使用してインストールする EXE ファイルを選択"
 LOCAL3="何もインストールされていません！\n\nOK をクリックして終了します。"
 LOCAL4="ファイルが選択されていません！\n\n終了します..."
 LOCAL5="正常の場合 exe ファイルのアプリケーションがインストールされています。"
 LOCAL6="終了"
-
 ### .desktop file to be translated too
 # Name[ja_JP]=Wine Wrapper
 # Comment[ja_JP]=EXE アプリケーションのインストール

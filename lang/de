@@ -1,0 +1,13 @@
+# German localization file for Sparky Wine by Deflet Bertling
+# Copyright 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2018/03/15
+LOCAL1="Wine Wrapper"
+LOCAL2="Wähle EXE Datei zur Installation, um WINE zu nutzen"
+LOCAL3="Es wurde nichts installiert! \n\nKlick OK zum Beenden."
+LOCAL4="Es wurde keine Datei erwählt! \n\nBeenden..."
+LOCAL5="Wenn alles gut lief, ist deine 'exe' Applikation installiert."
+LOCAL6="Ende"
+### .desktop file to be translated too
+# Name[de_DE]=Wine Wrapper
+# Comment[de_DE]=Install EXE Application

@@ -2,7 +2,11 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2014, 2015, 2016, 2017 Paweł Pijanowski
+    Copyright (C) 2014-2018 Paweł Pijanowski
+    License: GPL-2
+
+File: de
+    Copyright (C) 2018 Deflet Bertling
     License: GPL-2
 
 File: es

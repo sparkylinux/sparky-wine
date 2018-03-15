@@ -2,14 +2,12 @@
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
 # Under the GNU GPL v2
 # Last update 2016/01/11
-
 LOCAL1="Wine Wrapper"
 LOCAL2="Select EXE file to be installed using WINE"
 LOCAL3="Nothing has been installed! \n\nClick OK to quit."
 LOCAL4="No file has been chosen! \n\nExiting..."
 LOCAL5="If everything went well, your 'exe' application has been installed."
 LOCAL6="Exit"
-
 ### .desktop file to be translated too
 # Name[en_US]=Wine Wrapper
 # Comment[en_US]=Install EXE Application

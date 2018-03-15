@@ -1,14 +1,15 @@
 #!/bin/bash
 #
 #  Sparky-Wine is a simply tool which let you install ".exe" application using Wine.
-#
 #  Created by Paweł "pavroo" Pijanowski 2014/03/04
-#  Last update 2016/05/24
-#  Copyright 2014, 2015, 2016 under the GNU GPL2 License
+#  Copyright 2014-2018 under the GNU GPL2 License
+#  Last update 2018/03/15
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-wine"
-if [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
+if [ "`cat /etc/default/locale | grep de_DE`" != "" ]; then
+. $DEFLOCDIR/de
+elif [ "`cat /etc/default/locale | grep es_AR`" != "" ]; then
 . $DEFLOCDIR/es
 elif [ "`cat /etc/default/locale | grep fr_FR`" != "" ]; then
 . $DEFLOCDIR/fr

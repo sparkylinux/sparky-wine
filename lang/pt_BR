@@ -4,14 +4,12 @@
 # Revisado e adaptado por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 30/01/2016
 # Sob a Licença GNU GPL v2
 # Última atualização 30/01/2016
-
 LOCAL1="Wine Wrapper"
 LOCAL2="Selecione o arquivo EXE para ser instalado usando WINE"
 LOCAL3="Nada foi instalado! \n\nClique em OK para sair."
 LOCAL4="Nenhum arquivo foi escolhido! \n\nSair..."
 LOCAL5="Se tudo correu bem, o aplicativo de extensão 'exe' foi instalado."
 LOCAL6="Sair"
-
 ### .desktop file to be translated too
 # Name[pt_BR]=Wine Wrapper
 # Comment[pt_BR]=Instalar uma aplicação EXE

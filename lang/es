@@ -2,14 +2,12 @@
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/28
 # Bajo la licencia GNU GPL v2
 # Last update 2016/05/24 by pavroo
-
 LOCAL1="Wine Wrapper"
 LOCAL2="Elija el archivo EXE a instalar usando WINE"
 LOCAL3="¡No se instaló nada! \n\nHaga clic en OK para salir."
 LOCAL4="¡No se eligió ningún archivo! \n\nSalir..."
 LOCAL5="Si todo salió bien, se instaló su aplicación 'exe'."
 LOCAL6="Salir"
-
 ### .desktop file to be translated too
 # Name[es_AR]=Wine Wrapper
 # Comment[es_AR]=Instala una aplicación EXE
