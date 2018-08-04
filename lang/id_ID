@@ -1,0 +1,14 @@
+# Indonesian localization file for Sparky Wine.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2018/08/03 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Pembungkus Wine"
+LOCAL2="Pilih file EXE untuk di-instal menggunakan WINE"
+LOCAL3="Tidak ada yang di-instal! \n\nKlik OK untuk keluar."
+LOCAL4="Tidak ada file yang dipilih! \n\nKeluar..."
+LOCAL5="Jika semua berjalan baik, aplikasi 'exe' itu sudah ter-instal."
+LOCAL6="Keluar"
+### .desktop file to be translated too
+# Name[id_ID]=Pembungkus Wine
+# Comment[id_ID]=Instal aplikasi EXE
