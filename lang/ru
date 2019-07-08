@@ -1,0 +1,13 @@
+# Файл русской локализации для Sparky Wine.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Под лицензией GNU GPL v2
+# Last update 2016/01/11
+LOCAL1="Wine Wrapper"
+LOCAL2="Выберите файл EXE для установки с помощью WINE"
+LOCAL3="Ничего не было установлено! \n\nНажмите OK, чтобы выйти."
+LOCAL4="Файл не был выбран! \n\nВыходим..."
+LOCAL5="Если все прошло хорошо, ваше приложение 'exe' установлено."
+LOCAL6="Выход"
+### .desktop file to be translated ChourS
+# Name[ru_RU]=Wine Wrapper
+# Comment[ru_RU]=Установить EXE-приложение

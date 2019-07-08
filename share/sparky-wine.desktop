@@ -13,6 +13,7 @@ Comment[ja]=EXE アプリケーションのインストール
 Comment[pl]=Zainstaluj aplikację EXE
 Comment[pt_BR]=Instalar uma aplicação EXE
 Comment[pt_PT]=Instale a Aplicação EXE
+Comment[ru]=Установить EXE-приложение
 Exec=/usr/bin/sparky-wine
 Icon=wine
 Terminal=false
