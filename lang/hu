@@ -1,0 +1,14 @@
+# Hungarian localization file for Sparky Wine. (Translated by Nemomen)
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2019/09/19 by pavroo
+LOCAL1="Wine Csomagoló"
+LOCAL2="Válasszon a WINE használatához telepítendő EXE fájlt!"
+LOCAL3="Semmi sincsen telepítve! \n\nKattintson OK-t a kilépéshez!"
+LOCAL4="Nincs kiválasztott fájl! \n\nKilépés..."
+LOCAL5="Ha minden rendben ment, az 'exe' alkalmazása telepítve."
+LOCAL6="Kilépés"
+### .desktop file to be translated too
+# Name[en_US]=Wine Wrapper
+# Comment[en_US]=Install EXE Application
+

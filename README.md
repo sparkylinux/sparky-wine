@@ -1,7 +1,7 @@
 Sparky Wine Wrapper
 This tool lets you install 'EXE' applications designed for MS Windows. It is a simply Wine wrapper.
 
-Copyright (C) 2014-2018 Paweł Pijanowski and others, see copyright file.
+Copyright (C) 2014-2019 Paweł Pijanowski and others, see copyright file.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
