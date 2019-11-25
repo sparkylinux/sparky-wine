@@ -1,0 +1,13 @@
+# Greek localization file for Sparky Wine.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2019/11/06 by jidan
+LOCAL1="Wine Wrapper"
+LOCAL2="Επιλέξτε αρχείο EXE για εγκατάσταση με το WINE"
+LOCAL3="Δεν εγκαταστάθηκε κάτι! \n\nΕπιλέξτε OK για τερματισμό."
+LOCAL4="Δεν έχει επιλεγεί κάποιο αρχείο! \n\nΠραγματοποιείται έξοδος..."
+LOCAL5="Αν όλα πήγαν καλά, η 'exe' εφαρμογή σας έχει εγκατασταθεί."
+LOCAL6="Έξοδος"
+### .desktop file to be translated too
+# Name[el_GR]=Wine Wrapper
+# Comment[el_GR]=Εγκτάσταση εφαρμογής EXE

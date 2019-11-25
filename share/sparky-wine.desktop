@@ -5,6 +5,7 @@ Name=Wine Wrapper
 Name[id]=Pembungkus Wine
 GenericName=Wine Wrapper
 Comment=Install EXE Application
+Comment[el]=Εγκτάσταση εφαρμογής EXE
 Comment[es]=Instala una aplicación EXE
 Comment[fr]=Installation d'application EXE
 Comment[id]=Instal aplikasi EXE
