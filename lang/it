@@ -1,12 +1,12 @@
 # File di localizzazione in Italiano per Sparky Wine.
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 12/11/2015
 # Rilasciato sotto licenza GNU GPL v2
-# Ultimo aggiornamento 30/11/2015
+# Ultimo aggiornamento 2020/07/19 by Carlo
 LOCAL1="Wine Wrapper"
 LOCAL2="Seleziona il file EXE da installare utilizzando WINE"
-LOCAL3="Non è stato installato nulla! \n\nClicca su OK per uscire."
-LOCAL4="Nessun file è stato selezionato! \n\nSto uscendo..."
-LOCAL5="Se tutto è andato bene la tua applicazione è stata installata."
+LOCAL3="Non e' stato installato nulla! \n\nClicca su OK per uscire."
+LOCAL4="Nessun file e' stato selezionato! \n\nSto uscendo..."
+LOCAL5="Se tutto e' andato bene la tua applicazione e' stata installata."
 LOCAL6="Esci"
 ### .desktop file to be translated too
 # Name[it_IT]=Wine Wrapper
