@@ -1,0 +1,13 @@
+# Chinese(Simplified) localization file for Sparky Wine.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update 2020/08/06
+LOCAL1="Wine 封装工具"
+LOCAL2="选取需要使用 WINE 安装的 EXE 安装包文件"
+LOCAL3="不会执行任何动作！\n\n点击 OK 退出。"
+LOCAL4="未选中任何文件！\n\n推出中……"
+LOCAL5="如果一切正常，您的‘exe’应用程序已经成功安装。"
+LOCAL6="退出"
+### .desktop file to be translated too
+# Name[zh_CN]=Wine 封装工具
+# Comment[zh_CN]=安装 EXE 应用程序
