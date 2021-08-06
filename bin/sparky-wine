@@ -2,8 +2,8 @@
 #
 #  Sparky-Wine is a simply tool which let you install ".exe" application using Wine.
 #  Created by Paweł "pavroo" Pijanowski 2014/03/04
-#  Copyright 2014-2020 under the GNU GPL2 License
-#  Last update 2020/10/05
+#  Copyright 2014-2021 under the GNU GPL2 License
+#  Last update 2021/08/06
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-wine"

@@ -2,7 +2,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2014-2020 Paweł Pijanowski
+    Copyright (C) 2014-2021 Paweł Pijanowski
     License: GPL-2
 
 File: de
@@ -47,6 +47,10 @@ File: pt_PT
 
 File: ru
     Copyright 2019 ChourS2008
+    License: GNU GPL-3
+
+File: zh_CN
+    Copyright 2021 OkayPJ
     License: GNU GPL-3
 
 License:
