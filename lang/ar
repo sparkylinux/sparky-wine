@@ -1,0 +1,12 @@
+# Arabic localization file for Sparky Wine.
+# Under the GNU GPL v2
+# Last update Ebraheem Elghadban 2021/12/25
+LOCAL1="غلاف النبيذ"
+LOCAL2="حدد ملف EXE ليتم تثبيته باستخدام WINE"
+LOCAL3="لم يتم تثبيت أي شيء! \ n \ n انقر فوق "موافق" للإنهاء."
+LOCAL4="لم يتم اختيار ملف! \ n \ n الخروج ..."
+LOCAL5="إذا سارت الأمور على ما يرام ، فقد تم تثبيت تطبيق "exe" الخاص بك."
+LOCAL6="مخرج"
+### .desktop file to be translated too
+# Name[ar_AR]=غلاف النبيذ
+# Comment[en_US]=قم بتثبيت تطبيق EXE
