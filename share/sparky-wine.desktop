@@ -2,10 +2,12 @@
 Version=1.0
 Encoding=UTF-8
 Name=Wine Wrapper
+Name[ar_AR]=غلاف النبيذ
 Name[id]=Pembungkus Wine
 Name[zh_CN]=Wine 封装工具
 GenericName=Wine Wrapper
 Comment=Install EXE Application
+Comment[ar_AR]=قم بتثبيت تطبيق EXE
 Comment[el]=Εγκτάσταση εφαρμογής EXE
 Comment[es]=Instala una aplicación EXE
 Comment[fr]=Installation d'application EXE
