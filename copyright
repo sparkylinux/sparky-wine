@@ -2,7 +2,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2014-2021 Paweł Pijanowski
+    Copyright (C) 2014-2022 Paweł Pijanowski
     License: GPL-2
 
 File: ar
@@ -35,6 +35,7 @@ File: id_ID
 
 File: it
     Copyright (C) 2015 Carlo‚ "malato" Troiani <abbassolafrangetta@gmail.com>
+    Copyright 2022 Yodel Sinatra <mastodon.uno/@YodelSinatra>
     License: GPL-2
 
 File: ja
