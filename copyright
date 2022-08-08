@@ -17,9 +17,13 @@ File: el
     Copyright (C) 2019 jidan
     License: GPL-2
 
-File: es
+File: es_AR
     Copyright (C) 2016 Fernando "seacat" Velo <seacat.linux@gmail.com>
     License: GPL-2
+
+File: es_ES
+    Copyright 2022 depaz
+    License: GNU GPL-3
 
 File: fr
     Copyright (C) 2016 hiver <hiver@club-internet.fr>
