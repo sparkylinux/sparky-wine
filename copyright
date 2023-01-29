@@ -2,7 +2,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: *
-    Copyright (C) 2014-2022 Paweł Pijanowski
+    Copyright (C) 2014-2023 Paweł Pijanowski
     License: GPL-2
 
 File: ar
@@ -17,6 +17,10 @@ File: el
     Copyright (C) 2019 jidan
     License: GPL-2
 
+File: en
+    Copyright 2015 pavroo
+    License: GNU GPL-3
+    
 File: es_AR
     Copyright (C) 2016 Fernando "seacat" Velo <seacat.linux@gmail.com>
     License: GPL-2
@@ -46,6 +50,10 @@ File: ja
     Copyright (C) 2016, 2017 BALLOON a.k.a. Fu-sen
     License: GPL-2
 
+File: pl
+    Copyright 2015 pavroo
+    License: GNU GPL-3
+    
 File: pt_BR
     Copyright (C) 2016 Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com>
     License: GPL-2
@@ -56,6 +64,10 @@ File: pt_PT
 
 File: ru
     Copyright 2019 ChourS2008
+    License: GNU GPL-3
+
+File: uk
+    Copyright 2023 XalisRatt
     License: GNU GPL-3
 
 File: zh_CN

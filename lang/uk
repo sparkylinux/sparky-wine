@@ -1,0 +1,14 @@
+# Файл української локалізації для Sparky Wine.
+# Ukrainian localization made by XalisRatt (Matrix : <@xalisqull:arcticfoxes.net>) 2023/01/19
+# Copyright 2015 PaweЕ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# Under the GNU GPL v2
+# Last update by pavroo 2016/01/11
+LOCAL1="Wine Wrapper"
+LOCAL2="Оберіть EXE файл для встановлення за допомогою WINE"
+LOCAL3="Нічого не встановлено! \n\nНатисніть OK для виходу."
+LOCAL4="Файл не обрано! \n\nЗавершую..."
+LOCAL5="Якщо все пройшло добре, ваш застосунок 'exe' встановлено."
+LOCAL6="Вихід"
+### .desktop file to be translated too
+# Name[uk_UA]=Wine Wrapper
+# Comment[uk_UA]=Встановити EXE-застосунок
