@@ -17,7 +17,7 @@
 if [ "$1" = "uninstall" ]; then
 	rm -f /etc/xdg/menus/applications-merged/sparky-wine.menu
 	rm -f /usr/bin/sparky-wine
-	rm -f /usr/lib/sparkycenter/software/sparky-wine.desktop
+	#rm -f /usr/lib/sparkycenter/software/sparky-wine.desktop
 	rm -f /usr/share/applications/sparky-wine.desktop
 	rm -f /usr/share/menu/sparky-wine
 	rm -f usr/share/desktop-directories/sparky-wine.directory
@@ -38,10 +38,10 @@ if [ "$1" = "uninstall" ]; then
 else
 	cp etc/* /etc/xdg/menus/applications-merged/
 	cp bin/* /usr/bin/
-	if [ ! -d /usr/lib/sparkycenter/software ]; then
-		mkdir -p /usr/lib/sparkycenter/software
-	fi
-	cp share/sparky-wine.desktop /usr/lib/sparkycenter/software/
+	#if [ ! -d /usr/lib/sparkycenter/software ]; then
+	#	mkdir -p /usr/lib/sparkycenter/software
+	#fi
+	#cp share/sparky-wine.desktop /usr/lib/sparkycenter/software/
 	cp share/sparky-wine.desktop /usr/share/applications/
 	cp share/sparky-wine /usr/share/menu/
 	cp share/sparky-wine.directory /usr/share/desktop-directories

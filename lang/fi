@@ -1,0 +1,13 @@
+# Suomenkielinen lokalisointitiedosto Sparky Winelle.
+# Tekijänoikeus 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/12
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2016/01/11
+LOCAL1="Viinikääre"
+LOCAL2="Valitse WINEllä asennettava EXE-tiedosto"
+LOCAL3="Mitään ei ole asennettu! \n\nLopeta napsauttamalla OK."
+LOCAL4="Tiedostoa ei ole valittu! \n\nPoistutaan..."
+LOCAL5="Jos kaikki meni hyvin, exe-sovelluksesi on asennettu."
+LOCAL6="Poistu"
+### .desktop-tiedosto käännettävä myös
+# Name[fi]=Viinikääre
+# Comment[fi]=Asenna EXE-sovellus
